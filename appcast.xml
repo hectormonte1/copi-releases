@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Copi</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Sat, 10 Oct 2026 15:13:28 -0600</pubDate>
+            <link>https://github.com/hectormonte1/copi-releases</link>
+            <sparkle:version>2026101021</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Copi 0.1.0</h2>
+<ul>
+  <li>Primera versión pública: historial del portapapeles en la barra de menús (⇧⌘C), búsqueda y fijados.</li>
+  <li>Filtro de datos sensibles activado: contraseñas, tokens, códigos 2FA, tarjetas y gestores de contraseñas no salen de tu Mac.</li>
+  <li>Resumen diario en Markdown, 100% local.</li>
+  <li>Sincronización con un panel web y acceso MCP: opcionales y apagados hasta que los configures.</li>
+  <li>Actualizaciones automáticas con Sparkle.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/hectormonte1/copi-releases/releases/download/v0.1.0/Copi-0.1.0.dmg" length="5225999" type="application/octet-stream" sparkle:edSignature="agz8LHyRfFVH0eWOffLp5VYITC2ALC/SukGUZS2P/Saon/D8/3yXoTHLHKjLR1iNqspsBPsjdS2r8yTT0p04Dg=="/>
+        </item>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Sat, 10 Oct 2026 14:51:09 -0600</pubDate>
+            <link>https://github.com/hectormonte1/copi-releases</link>
+            <sparkle:version>2026101000</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Copi 0.1.0</h2>
+<ul>
+  <li>Primera versión pública: historial del portapapeles en la barra de menús (⇧⌘C), búsqueda y fijados.</li>
+  <li>Filtro de datos sensibles activado: contraseñas, tokens, códigos 2FA, tarjetas y gestores de contraseñas no salen de tu Mac.</li>
+  <li>Resumen diario en Markdown, 100% local.</li>
+  <li>Sincronización con un panel web y acceso MCP: opcionales y apagados hasta que los configures.</li>
+  <li>Actualizaciones automáticas con Sparkle.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/hectormonte1/copi-releases/releases/download/v0.1.0/Copi-0.1.0.dmg" length="5225993" type="application/octet-stream" sparkle:edSignature="NYSOy+1zUzya7YkQY3C3tvR0CXjfVrUPBjd1aSH6MWt2V+pdrgeJl5Rl7Xde6dXGfOLOsa7grzBhG5+FrbR9Bw=="/>
+        </item>
+    </channel>
+</rss>
