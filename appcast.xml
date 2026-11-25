@@ -3,6 +3,26 @@
     <channel>
         <title>Copi</title>
         <item>
+            <title>0.1.1</title>
+            <pubDate>Wed, 25 Nov 2026 13:13:16 -0600</pubDate>
+            <link>https://github.com/hectormonte1/copi-releases</link>
+            <sparkle:version>2026112519</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Copi 0.1.1</h2>
+<ul>
+  <li>Firmada y notarizada por Apple: se instala y abre sin avisos de seguridad de macOS.</li>
+  <li>Notas flotantes: deja algo que copiaste, o una captura de una zona de la pantalla, como una nota que flota sobre tus ventanas. Muévela, cámbiala de tamaño, edítala o descártala con un gesto (⌥⌘N fija el portapapeles, ⌥⌘S captura una zona; ⌘P desde el historial). El texto de las capturas se reconoce y se puede copiar.</li>
+  <li>Vista previa grande al pasar el cursor sobre una imagen del historial.</li>
+  <li>Resumen «En qué trabajaste hoy» escrito con Apple Intelligence, en tu Mac (macOS 26 o posterior).</li>
+  <li>Preferencias rediseñadas en una sola columna, con el diseño actual de macOS.</li>
+  <li>Más estable: el historial se recupera si un archivo queda dañado y las imágenes usan menos memoria.</li>
+</ul>
+<p>Al actualizar desde la 0.1.0, macOS puede pedir una vez más el permiso de Accesibilidad. Si el interruptor ya está encendido y pegar no funciona, quita Copi de la lista y vuelve a agregarla.</p>
+]]></description>
+            <enclosure url="https://github.com/hectormonte1/copi-releases/releases/download/v0.1.1/Copi-0.1.1.dmg" length="6171953" type="application/octet-stream" sparkle:edSignature="V5y4il0lFnCJ4Jjk9WVmyubpcUSuMnku23LWXUc3k0pVEgSaV/TOoLZPCyzcB0BCzFXmiw0nUQVAXpSq+qTMDg=="/>
+        </item>
+        <item>
             <title>0.1.0</title>
             <pubDate>Sat, 10 Oct 2026 15:13:28 -0600</pubDate>
             <link>https://github.com/hectormonte1/copi-releases</link>
